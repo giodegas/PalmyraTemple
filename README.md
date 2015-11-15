@@ -6,3 +6,4 @@ To import into your opensim server console:
 
     load oar PalmyraTemple.oar
 
+inspired by the [NEWPALMYRA Project](http://www.newpalmyra.org)
