@@ -13,3 +13,5 @@ The model can be visited registering an avatar in the [CRAFT](http://www.craft-w
     hop://craft-world.org:8002/PALMYRA%40UnivAQ/82/105/22
 
 Screenshots available at the [#NEWPALMYRA CRAFT-GRID](http://www.newpalmyra.org/projects/craft-grid.html) "*Community Projects*" page
+
+[![DOI](https://zenodo.org/badge/5311/giodegas/PalmyraTemple.svg)](https://zenodo.org/badge/latestdoi/5311/giodegas/PalmyraTemple)
