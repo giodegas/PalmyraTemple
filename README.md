@@ -11,3 +11,5 @@ inspired by the [NEWPALMYRA Project](http://www.newpalmyra.org)
 The model can be visited registering an avatar in the [CRAFT](http://www.craft-world.org) grid at this URL:
 
     hop://craft-world.org:8002/PALMYRA%40UnivAQ/82/105/22
+
+Screenshots available at the [#NEWPALMYRA CRAFT-GRID](http://www.newpalmyra.org/projects/craft-grid.html) "*Community Projects*" page
